@@ -20,3 +20,6 @@ ChimeRScope is a java application (distributed as JAR file) that uses a novel al
 
 # ChimeRScope pipeline Manuals
 https://github.com/ChimeRScope/ChimeRScope/wiki/ChimeRScopeManual
+
+#cite
+Li Y, Heavican TB, Vellichirammal NN, Iqbal J, Guda C. [ChimeRScope: a novel alignment-free algorithm for fusion transcript prediction using paired-end RNA-Seq data](https://pubmed.ncbi.nlm.nih.gov/28472320/). Nucleic Acids Res. 2017 Jul 27;45(13):e120. doi: 10.1093/nar/gkx315. PMID: 28472320; PMCID: PMC5737728.
